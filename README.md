@@ -3,7 +3,7 @@
 Acme-Test01 version 0.01
 ========================
 
-This will be added to a new branch.
+This will be added to a new branch named branch01.
 
 The README is used to introduce the module and provide instructions on
 how to install the module, any machine dependencies it may have (for
