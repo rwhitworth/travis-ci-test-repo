@@ -6,6 +6,7 @@ WriteMakefile(
     NAME              => 'Acme::Test01',
     VERSION_FROM      => 'lib/Acme/Test01.pm', # finds $VERSION
     PREREQ_PM         => {}, # e.g., Module::Name => 1.1
+    PREREQ_FATAL      => 'Test::More',
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/Acme/Test01.pm', # retrieve abstract from module
        AUTHOR         => 'me@ryanwhitworth.com') : ()),

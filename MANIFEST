@@ -4,3 +4,5 @@ MANIFEST
 README
 t/Acme-Test01.t
 lib/Acme/Test01.pm
+LICENSE
+README.md
